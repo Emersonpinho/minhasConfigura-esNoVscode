@@ -1,0 +1,17 @@
+{
+    "redhat.telemetry.enabled": true,
+    "window.menuBarVisibility": "compact",
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace",
+    "editor.codeActionsOnSave": {
+
+    },
+    "editor.dropIntoEditor.preferences": [
+
+    ],
+    "terminal.integrated.fontFamily": "monospace",
+    "workbench.colorTheme": "One Dark Pro Night Flat",
+    "workbench.iconTheme": "material-icon-theme"
+}
